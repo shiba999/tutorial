@@ -1,1 +1,2 @@
-サルでもわかるGitコマンド
+[Git tutorial]
+https://github.com/shiba999/tutorial.git
